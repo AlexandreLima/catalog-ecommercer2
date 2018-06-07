@@ -1,0 +1,6 @@
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.deps.json
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.AssemblyInfo.cs
