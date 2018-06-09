@@ -12643,11 +12643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj",
       "projectName": "Ecommercer.Catalog.Api",
-      "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -12669,8 +12669,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Ioc\\Ecommercer.Catalog.Ioc.csproj": {
-              "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Ioc\\Ecommercer.Catalog.Ioc.csproj"
+            "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.Ioc\\Ecommercer.Catalog.Ioc.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.Ioc\\Ecommercer.Catalog.Ioc.csproj"
             }
           }
         }

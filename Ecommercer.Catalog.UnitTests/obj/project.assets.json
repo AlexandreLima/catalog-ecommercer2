@@ -14001,11 +14001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.UnitTests\\Ecommercer.Catalog.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.UnitTests\\Ecommercer.Catalog.UnitTests.csproj",
       "projectName": "Ecommercer.Catalog.UnitTests",
-      "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.UnitTests\\Ecommercer.Catalog.UnitTests.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.UnitTests\\Ecommercer.Catalog.UnitTests.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -14027,14 +14027,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Application\\Ecommercer.Catalog.Application.csproj": {
-              "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Application\\Ecommercer.Catalog.Application.csproj"
+            "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.Application\\Ecommercer.Catalog.Application.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.Application\\Ecommercer.Catalog.Application.csproj"
             },
-            "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Domain\\Ecommercer.Catalog.Domain.csproj": {
-              "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Domain\\Ecommercer.Catalog.Domain.csproj"
+            "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.Domain\\Ecommercer.Catalog.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog.Domain\\Ecommercer.Catalog.Domain.csproj"
             },
-            "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj": {
-              "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj"
+            "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Develop\\catalog2\\Ecommercer.Catalog\\Ecommercer.Catalog.Api.csproj"
             }
           }
         }
