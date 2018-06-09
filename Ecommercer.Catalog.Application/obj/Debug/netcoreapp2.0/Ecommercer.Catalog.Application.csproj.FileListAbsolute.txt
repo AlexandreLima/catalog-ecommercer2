@@ -10,3 +10,15 @@ c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\bin
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csproj.CopyComplete
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.deps.json
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.AssemblyInfo.cs
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csproj.CopyComplete
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb

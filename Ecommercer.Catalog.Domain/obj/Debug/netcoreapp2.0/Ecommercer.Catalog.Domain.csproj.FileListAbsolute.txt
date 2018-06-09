@@ -7,3 +7,12 @@ c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debu
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.AssemblyInfo.cs
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.deps.json
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb

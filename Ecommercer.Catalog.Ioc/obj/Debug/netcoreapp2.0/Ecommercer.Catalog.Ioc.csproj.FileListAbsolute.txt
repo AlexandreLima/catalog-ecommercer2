@@ -12,3 +12,17 @@ c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\n
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.pdb
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.dll
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.deps.json
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.AssemblyInfo.cs
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.csproj.CopyComplete
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.pdb
