@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Ecommercer.Catalog.Domain.Produtcs
 {
     public interface IProductRepository
     {
-        void Add(Product product);
+        Task Add(Product product);
     }
 }

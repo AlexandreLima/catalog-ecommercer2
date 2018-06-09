@@ -5,10 +5,8 @@ using System.Text;
 
 namespace Ecommercer.Catalog.Application.Commands.Products
 {
-    public class AddProductCommand : Command
+    public class AddProductCommand : CommandBase
     {
-        public int Id { get; set; }
-
         public DateTime CreatedAt { get; set; }
 
         public string Name { get; set; }

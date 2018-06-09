@@ -1,20 +1,49 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "2c7751c90dc8a12a22f2033205f52713ef47548a"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Ecommercer.Catalog.Application/1.0.0": {
+        "dependencies": {
+          "Ecommercer.Catalog.Domain": "1.0.0",
+          "MediatR": "5.0.1"
+        },
         "runtime": {
           "Ecommercer.Catalog.Application.dll": {}
+        }
+      },
+      "MediatR/5.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "Ecommercer.Catalog.Domain/1.0.0": {
+        "runtime": {
+          "Ecommercer.Catalog.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Ecommercer.Catalog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SgJDOVGMUwC4E+cw4GTy3nv9gye+K68HXPpRselRXwdOgodpwdq6vTVQajyptk7AVhCzBD8c3ccYLhNRugfgfA==",
+      "path": "mediatr/5.0.1",
+      "hashPath": "mediatr.5.0.1.nupkg.sha512"
+    },
+    "Ecommercer.Catalog.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

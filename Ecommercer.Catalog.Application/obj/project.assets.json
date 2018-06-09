@@ -205,6 +205,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Ecommercer.Catalog.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ecommercer.Catalog.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommercer.Catalog.Domain.dll": {}
+        }
       }
     }
   },
@@ -677,10 +687,16 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Ecommercer.Catalog.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Ecommercer.Catalog.Domain/Ecommercer.Catalog.Domain.csproj",
+      "msbuildProject": "../Ecommercer.Catalog.Domain/Ecommercer.Catalog.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Ecommercer.Catalog.Domain >= 1.0.0",
       "MediatR >= 5.0.1",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -718,7 +734,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Domain\\Ecommercer.Catalog.Domain.csproj": {
+              "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Domain\\Ecommercer.Catalog.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

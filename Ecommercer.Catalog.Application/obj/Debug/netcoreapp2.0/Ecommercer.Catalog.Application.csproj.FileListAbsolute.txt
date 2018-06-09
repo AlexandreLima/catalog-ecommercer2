@@ -4,3 +4,9 @@ c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csproj.CoreCompileInputs.cache
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.AssemblyInfoInputs.cache
 c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.AssemblyInfo.cs
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.csproj.CopyComplete
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Application\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb

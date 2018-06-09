@@ -1,0 +1,14 @@
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.deps.json
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Application.pdb
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.AssemblyInfo.cs
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.csproj.CopyComplete
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.pdb
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Ioc\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Ioc.pdb

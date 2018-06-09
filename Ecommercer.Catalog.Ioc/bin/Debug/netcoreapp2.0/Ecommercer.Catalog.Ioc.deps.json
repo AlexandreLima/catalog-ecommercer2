@@ -1,0 +1,101 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "80b3b195291edcd274aee269e4d250e74bfc4899"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Ecommercer.Catalog.Ioc/1.0.0": {
+        "dependencies": {
+          "Ecommercer.Catalog.Application": "1.0.0",
+          "MediatR": "5.0.1",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "5.0.1"
+        },
+        "runtime": {
+          "Ecommercer.Catalog.Ioc.dll": {}
+        }
+      },
+      "MediatR/5.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "MediatR.Extensions.Microsoft.DependencyInjection/5.0.1": {
+        "dependencies": {
+          "MediatR": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {
+            "assemblyVersion": "5.0.1.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.17205"
+          }
+        }
+      },
+      "Ecommercer.Catalog.Application/1.0.0": {
+        "dependencies": {
+          "Ecommercer.Catalog.Domain": "1.0.0",
+          "MediatR": "5.0.1"
+        },
+        "runtime": {
+          "Ecommercer.Catalog.Application.dll": {}
+        }
+      },
+      "Ecommercer.Catalog.Domain/1.0.0": {
+        "runtime": {
+          "Ecommercer.Catalog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecommercer.Catalog.Ioc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SgJDOVGMUwC4E+cw4GTy3nv9gye+K68HXPpRselRXwdOgodpwdq6vTVQajyptk7AVhCzBD8c3ccYLhNRugfgfA==",
+      "path": "mediatr/5.0.1",
+      "hashPath": "mediatr.5.0.1.nupkg.sha512"
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xR/UDBBkRL+f2fSOb+zTjjMUOu2SyS/PizUE38ENmvDABKvnQsiCmb51C0eTRc3gsqBxuKoUOzPQNbqFjT7eug==",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/5.0.1",
+      "hashPath": "mediatr.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    },
+    "Ecommercer.Catalog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ecommercer.Catalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

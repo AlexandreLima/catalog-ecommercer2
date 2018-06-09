@@ -1,0 +1,9 @@
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.deps.json
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.AssemblyInfo.cs
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.dll
+c:\users\user\source\repos\Ecommercer.Catalog\Ecommercer.Catalog.Domain\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Domain.pdb

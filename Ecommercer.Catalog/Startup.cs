@@ -8,7 +8,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using MediatR;
 
+using Ecommercer.Catalog.Ioc;
 namespace Ecommercer.Catalog
 {
     public class Startup
@@ -24,6 +26,8 @@ namespace Ecommercer.Catalog
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddMediatR();
+            services.AddDependecyInjection();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -6,12 +6,20 @@ namespace Ecommercer.Catalog.Domain.Produtcs
 {
     public class Product
     {
-        public int Id { get; set; }
+        public Product(DateTime createdAt, string name, int code)
+        {
+            CreatedAt = createdAt;
+            Name = name;
+            Code = code;
+            Id = Guid.NewGuid();
+        }
 
-        public DateTime CreatedAt { get; set; }
+        public Guid Id { get; private set; }
 
-        public string Name { get; set; }
+        public DateTime CreatedAt { get; private set; }
 
-        public int Code { get; set; }
+        public string Name { get; private set; }
+
+        public int Code { get; private set; }
     }
 }

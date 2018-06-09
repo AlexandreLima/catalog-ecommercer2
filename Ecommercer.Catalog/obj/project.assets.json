@@ -51,6 +51,19 @@
           "lib/netstandard2.0/MediatR.dll": {}
         }
       },
+      "MediatR.Extensions.Microsoft.DependencyInjection/5.0.1": {
+        "type": "package",
+        "dependencies": {
+          "MediatR": "5.0.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
       "Microsoft.ApplicationInsights/2.4.0": {
         "type": "package",
         "dependencies": {
@@ -4755,6 +4768,45 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Ecommercer.Catalog.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Ecommercer.Catalog.Domain": "1.0.0",
+          "MediatR": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Ecommercer.Catalog.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommercer.Catalog.Application.dll": {}
+        }
+      },
+      "Ecommercer.Catalog.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Ecommercer.Catalog.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommercer.Catalog.Domain.dll": {}
+        }
+      },
+      "Ecommercer.Catalog.Ioc/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Ecommercer.Catalog.Application": "1.0.0",
+          "MediatR": "5.0.1",
+          "MediatR.Extensions.Microsoft.DependencyInjection": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Ecommercer.Catalog.Ioc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ecommercer.Catalog.Ioc.dll": {}
+        }
       }
     }
   },
@@ -4787,6 +4839,16 @@
         "lib/netstandard2.0/MediatR.dll",
         "mediatr.5.0.1.nupkg.sha512",
         "mediatr.nuspec"
+      ]
+    },
+    "MediatR.Extensions.Microsoft.DependencyInjection/5.0.1": {
+      "sha512": "xR/UDBBkRL+f2fSOb+zTjjMUOu2SyS/PizUE38ENmvDABKvnQsiCmb51C0eTRc3gsqBxuKoUOzPQNbqFjT7eug==",
+      "type": "package",
+      "path": "mediatr.extensions.microsoft.dependencyinjection/5.0.1",
+      "files": [
+        "lib/netstandard2.0/MediatR.Extensions.Microsoft.DependencyInjection.dll",
+        "mediatr.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
+        "mediatr.extensions.microsoft.dependencyinjection.nuspec"
       ]
     },
     "Microsoft.ApplicationInsights/2.4.0": {
@@ -12547,11 +12609,28 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Ecommercer.Catalog.Application/1.0.0": {
+      "type": "project",
+      "path": "../Ecommercer.Catalog.Application/Ecommercer.Catalog.Application.csproj",
+      "msbuildProject": "../Ecommercer.Catalog.Application/Ecommercer.Catalog.Application.csproj"
+    },
+    "Ecommercer.Catalog.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Ecommercer.Catalog.Domain/Ecommercer.Catalog.Domain.csproj",
+      "msbuildProject": "../Ecommercer.Catalog.Domain/Ecommercer.Catalog.Domain.csproj"
+    },
+    "Ecommercer.Catalog.Ioc/1.0.0": {
+      "type": "project",
+      "path": "../Ecommercer.Catalog.Ioc/Ecommercer.Catalog.Ioc.csproj",
+      "msbuildProject": "../Ecommercer.Catalog.Ioc/Ecommercer.Catalog.Ioc.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Ecommercer.Catalog.Ioc >= 1.0.0",
       "MediatR >= 5.0.1",
+      "MediatR.Extensions.Microsoft.DependencyInjection >= 5.0.1",
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12589,7 +12668,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Ioc\\Ecommercer.Catalog.Ioc.csproj": {
+              "projectPath": "c:\\users\\user\\source\\repos\\Ecommercer.Catalog\\Ecommercer.Catalog.Ioc\\Ecommercer.Catalog.Ioc.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -12602,6 +12685,10 @@
       "netcoreapp2.0": {
         "dependencies": {
           "MediatR": {
+            "target": "Package",
+            "version": "[5.0.1, )"
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[5.0.1, )"
           },

@@ -1,4 +1,5 @@
 ﻿using Ecommercer.Catalog.Application.Commands.Base;
+using Ecommercer.Catalog.Domain.Produtcs;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -7,11 +8,17 @@ using System.Threading.Tasks;
 
 namespace Ecommercer.Catalog.Application.Commands.Products
 {
-    public class AddProductCommandHandler : CommandHandler<AddProductCommand>
+    public class AddProductCommandHandler : CommandHandlerBase<AddProductCommand>
     {
-        protected override Task Handle(AddProductCommand request, CancellationToken cancellationToken)
+        private readonly IProductRepository productRepository;
+        public AddProductCommandHandler(IProductRepository productRepository)
+            => this.productRepository = productRepository;
+
+        protected override async Task Handle(AddProductCommand request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            var product = new Product(request.CreatedAt, request.Name, request.Code);
+
+            await productRepository.Add(product);
         }
     }
 }
