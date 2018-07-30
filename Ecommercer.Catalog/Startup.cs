@@ -11,6 +11,9 @@ using Microsoft.Extensions.Options;
 using MediatR;
 
 using Ecommercer.Catalog.Ioc;
+using AutoMapper;
+using Ecommercer.Catalog.Mapping;
+
 namespace Ecommercer.Catalog
 {
     public class Startup
@@ -27,6 +30,7 @@ namespace Ecommercer.Catalog
         {
             services.AddMvc();
             services.AddMediatR();
+            services.AddAutoMapper(typeof(CommandToDomainMapping).Assembly);
             services.AddDependecyInjection();
         }
 

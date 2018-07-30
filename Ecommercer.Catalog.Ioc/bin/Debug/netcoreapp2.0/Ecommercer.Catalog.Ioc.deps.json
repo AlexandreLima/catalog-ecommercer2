@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "80b3b195291edcd274aee269e4d250e74bfc4899"
+    "signature": "61541b1c2beb23b3edfb7213bd85256006603f43"
   },
   "compilationOptions": {},
   "targets": {
@@ -14,6 +14,17 @@
         },
         "runtime": {
           "Ecommercer.Catalog.Ioc.dll": {}
+        }
+      },
+      "AutoMapper/7.0.1": {
+        "dependencies": {
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/AutoMapper.dll": {
+            "assemblyVersion": "7.0.1.0",
+            "fileVersion": "7.0.1.0"
+          }
         }
       },
       "MediatR/5.0.1": {
@@ -44,8 +55,10 @@
           }
         }
       },
+      "System.ValueTuple/4.5.0": {},
       "Ecommercer.Catalog.Application/1.0.0": {
         "dependencies": {
+          "AutoMapper": "7.0.1",
           "Ecommercer.Catalog.Domain": "1.0.0",
           "MediatR": "5.0.1"
         },
@@ -65,6 +78,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6xHbhsW09sWjjYuE1sqhYn25PQzB6UEUVPME5uhlaIz2NR2+L3+FGbVxvknJKug1BLp6VTLxDb5RcGXKMm0ieQ==",
+      "path": "automapper/7.0.1",
+      "hashPath": "automapper.7.0.1.nupkg.sha512"
     },
     "MediatR/5.0.1": {
       "type": "package",
@@ -86,6 +106,13 @@
       "sha512": "sha512-eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xZtSZNEHGa+tGsKuP4sh257vxJ/yemShz4EusmomkynMzuEDDjVaErBNewpzEF6swUgbcrSQAX3ELsEp1zCOwA==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
     },
     "Ecommercer.Catalog.Application/1.0.0": {
       "type": "project",

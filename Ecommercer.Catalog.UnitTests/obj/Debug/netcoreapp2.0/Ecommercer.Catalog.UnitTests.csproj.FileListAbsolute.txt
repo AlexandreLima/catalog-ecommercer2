@@ -44,3 +44,5 @@ C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.UnitTests\obj\Debug\
 C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.UnitTests\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.UnitTests.csproj.CopyComplete
 C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.UnitTests\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.UnitTests.dll
 C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.UnitTests\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.UnitTests.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.UnitTests\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Mapping.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog.UnitTests\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Mapping.pdb

@@ -14,14 +14,9 @@ namespace Ecommercer.Catalog.EntityFramework.Repositories.Products
         {
             builder.ToTable("Product");
 
-            builder.HasKey(p => p.Id);
+            builder.HasKey(p => p.ItemId)
+                .HasName("Id");
 
-            builder.Property(p => p.Id)
-                    .ValueGeneratedNever();
-
-            builder.Property(p => p.Name)
-                    .IsRequired()
-                    .HasMaxLength(100);
         }
     }
 }

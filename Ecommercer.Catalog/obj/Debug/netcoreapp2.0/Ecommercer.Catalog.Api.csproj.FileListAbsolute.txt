@@ -34,3 +34,5 @@ C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog\obj\Debug\netcoreapp
 C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Api.csproj.CopyComplete
 C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Api.dll
 C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog\obj\Debug\netcoreapp2.0\Ecommercer.Catalog.Api.pdb
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Mapping.dll
+C:\Users\User\Documents\Develop\catalog2\Ecommercer.Catalog\bin\Debug\netcoreapp2.0\Ecommercer.Catalog.Mapping.pdb

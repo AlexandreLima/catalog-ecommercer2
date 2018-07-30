@@ -1,18 +1,30 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "2c7751c90dc8a12a22f2033205f52713ef47548a"
+    "signature": "1ef10b30850f1a7f3a0330dc78fda7749b0fc72b"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Ecommercer.Catalog.Application/1.0.0": {
         "dependencies": {
+          "AutoMapper": "7.0.1",
           "Ecommercer.Catalog.Domain": "1.0.0",
           "MediatR": "5.0.1"
         },
         "runtime": {
           "Ecommercer.Catalog.Application.dll": {}
+        }
+      },
+      "AutoMapper/7.0.1": {
+        "dependencies": {
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/AutoMapper.dll": {
+            "assemblyVersion": "7.0.1.0",
+            "fileVersion": "7.0.1.0"
+          }
         }
       },
       "MediatR/5.0.1": {
@@ -23,6 +35,7 @@
           }
         }
       },
+      "System.ValueTuple/4.5.0": {},
       "Ecommercer.Catalog.Domain/1.0.0": {
         "runtime": {
           "Ecommercer.Catalog.Domain.dll": {}
@@ -36,12 +49,26 @@
       "serviceable": false,
       "sha512": ""
     },
+    "AutoMapper/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6xHbhsW09sWjjYuE1sqhYn25PQzB6UEUVPME5uhlaIz2NR2+L3+FGbVxvknJKug1BLp6VTLxDb5RcGXKMm0ieQ==",
+      "path": "automapper/7.0.1",
+      "hashPath": "automapper.7.0.1.nupkg.sha512"
+    },
     "MediatR/5.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-SgJDOVGMUwC4E+cw4GTy3nv9gye+K68HXPpRselRXwdOgodpwdq6vTVQajyptk7AVhCzBD8c3ccYLhNRugfgfA==",
       "path": "mediatr/5.0.1",
       "hashPath": "mediatr.5.0.1.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xZtSZNEHGa+tGsKuP4sh257vxJ/yemShz4EusmomkynMzuEDDjVaErBNewpzEF6swUgbcrSQAX3ELsEp1zCOwA==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
     },
     "Ecommercer.Catalog.Domain/1.0.0": {
       "type": "project",

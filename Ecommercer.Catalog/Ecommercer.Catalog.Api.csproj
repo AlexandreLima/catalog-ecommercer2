@@ -9,10 +9,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
     <PackageReference Include="MediatR" Version="5.0.1" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -21,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Ecommercer.Catalog.Ioc\Ecommercer.Catalog.Ioc.csproj" />
+    <ProjectReference Include="..\Ecommercer.Catalog.Mapping\Ecommercer.Catalog.Mapping.csproj" />
   </ItemGroup>
 
 </Project>
